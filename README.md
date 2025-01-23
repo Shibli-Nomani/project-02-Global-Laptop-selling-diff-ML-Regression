@@ -1,6 +1,6 @@
 # 🏢 project-02: Global Laptop Selling with Supervised Machine Learning Models (Regression)
 
-<img width="423" alt="ml-regression" src="https://github.com/user-attachments/assets/5c975334-d65f-4a40-81e2-d6837ef6c52e" />
+<img width="800" alt="ml-regression" src="https://github.com/user-attachments/assets/5c975334-d65f-4a40-81e2-d6837ef6c52e" />
 
 
 
